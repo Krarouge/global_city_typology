@@ -6,7 +6,7 @@ This repo is divided into several subfolders:
 - clustering_variables.csv: all variables used for DEC
 ### co2
 - co2_combination.ipynb: code for extracting emissions per Urban Centre for every ODIAC file (2000-2022)
-- odiac: ODIAC geotiffs found at download link: 
+- odiac: ODIAC geotiffs found at download link: https://db.cger.nies.go.jp/dataset/ODIAC/DL_odiac2023.html
 ### plots
 - maps.ipynb: code for plotting fig 1 
 ### road_master: 
